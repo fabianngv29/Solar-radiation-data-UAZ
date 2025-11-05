@@ -7,7 +7,20 @@ The data acquisition involved continuous monitoring of solar irradiance levels, 
 Data from both sensors were transmitted in real time to the ThingSpeak application using an ESP32 microcontroller for processing and storage. The collected data, totaling 10,000 readings, was stored and managed using the ThingSpeak platform, which allowed for real-time data visualization, analysis, and cloud-based storage. Each data entry includes a timestamp, irradiance measurements from both sensors,ThingSpeak's analytics and visualization tools facilitated effective monitoring and comparison of data trends throughout the study period.
 
 # Paper related and citation
-Link to paper: 
+Link to paper: https://www.mdpi.com/2227-7080/13/5/182
+
+@article{NavaPintor2025,
+  author       = {Nava-Pintor, J. A. and Alcalá-Rodríguez, U. E. and Guerrero-Osuna, H. A. and Mata-Romero, M. E. and Lopez-Neri, E. and García-Vázquez, F. and Solís-Sánchez, L. O. and Carrasco-Navarro, R. and Luque-Vega, L. F.},
+  title        = {Development and Evaluation of Solar Radiation Sensor Using Cost-Effective Light Sensors and Machine Learning Techniques},
+  journal      = {Technologies},
+  year         = {2025},
+  volume       = {13},
+  number       = {5},
+  pages        = {182},
+  publisher    = {MDPI},
+  doi          = {10.3390/technologies13050182},
+  url          = {https://doi.org/10.3390/technologies13050182}
+}
 
 # Acknowledgements
 The authors want to thank the Mexican National Council of Humanities, Science and Technology CONAHCYT for its support to the National Laboratory of Embedded Systems, Advanced Electronics Design and Micro systems (LN-SEDEAM by its initials in Spanish), project numbers 282357, 293384, 299061, 314841, 315947, and 321128, also for the scholarship number 1301325
